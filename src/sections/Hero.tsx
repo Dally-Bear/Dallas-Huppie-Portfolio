@@ -1,4 +1,4 @@
-import dallasImage from "@/assets/images/dallas.JPEG";
+import dallasImage from "@/assets/images/dallas.jpg";
 import Image from "next/image";
 import ArrowDown from "@/assets/icons/arrow-down.svg";
 import grainImage from "@/assets/images/grain.jpg";
