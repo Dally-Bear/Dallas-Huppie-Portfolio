@@ -1,10 +1,10 @@
-import dallasImage from "@/assets/images/dallas.jpeg";
+import dallasImage from "@/assets/images/dallas.JPEG";
 import Image from "next/image";
 import ArrowDown from "@/assets/icons/arrow-down.svg";
 import grainImage from "@/assets/images/grain.jpg";
 import SnowflakeIcon from "@/assets/icons/snowflake.svg";
 import { HeroOrbit } from "@/components/HeroOrbit";
-import SparkleIcon from "@/assets/icons/sparkle.svg";
+
 
 export const HeroSection = () => {
   return (
