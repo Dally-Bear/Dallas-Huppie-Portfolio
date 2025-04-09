@@ -1,6 +1,6 @@
 import WhatTheTruckPage from "@/assets/images/WhatTheTruck.png";
 import GundamnPage from "@/assets/images/Gundamn.png";
-import MedivoidPage from "@/assets/images/MediVoid.png";
+import MedivoidPage from "@/assets/images/medivoid.png";
 import Image from "next/image";
 import CheckIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
