@@ -13,8 +13,8 @@ export const ContactSection = () => {
 
         <div className='flex flex-col md:flex-row gap-8 md:gap-16 items-center relative z-10'>
           <div>
-            <h2 className='font-serif text-2xl md:text-3xl'>Let's create something amazing together</h2>
-            <p className='text-sm mt-2 md:text-base'>If you have an idea for a project or need help bringing a concept to life, I'd be thrilled to collaborate and turn your vision into reality. Whether it's something simple or a more complex build, feel free to reach out—I'd love to discuss how we can create something exceptional together.</p>
+            <h2 className='font-serif text-2xl md:text-3xl'>Let&#39;s create something amazing together</h2>
+            <p className='text-sm mt-2 md:text-base'>If you have an idea for a project or need help bringing a concept to life, I&#39;d be thrilled to collaborate and turn your vision into reality. Whether it&#39;s something simple or a more complex build, feel free to reach out—I&#39;d love to discuss how we can create something exceptional together.</p>
           </div>
           <div className="relative z-20">
             <a 
