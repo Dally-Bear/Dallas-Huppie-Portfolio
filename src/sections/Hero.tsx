@@ -1,4 +1,4 @@
-import dallasImage from "@/assets/images/dallas.jpg";
+import dallasImage from "@/assets/images/dallasimage.jpg";
 import Image from "next/image";
 import ArrowDown from "@/assets/icons/arrow-down.svg";
 import grainImage from "@/assets/images/grain.jpg";
@@ -106,10 +106,10 @@ export const HeroSection = () => {
           <div className="flex flex-col items-center ">
             <Image 
               src={dallasImage} 
-              className="h-[350px] w-[220px] rounded-xl mb-2 z-10" 
+              className="h-[450px] w-[320px] rounded-xl mb-2 z-10" 
               alt="Picture of Dallas Huppie" 
               />
-            <div className="bg-gray-950 border border-gray-800 px-4 py-1.5 inline-flex items-center gap-4 rounded-lg">
+            <div className="bg-gray-950 border border-gray-800 px-4 py-1.5 inline-flex items-center gap-4 rounded-lg" >
               <div className="bg-green-500 size-2.5 rounded-full relative">
                 <div className="bg-green-500 absolute inset-0 rounded-full animate-ping-large "></div>
               </div>
