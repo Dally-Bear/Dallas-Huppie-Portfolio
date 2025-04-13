@@ -9,25 +9,15 @@ const testimonials = [
   {
     name: "Abduallah Shaklaoon",
     position: "Student @ SAIT",
-    text: "Dallas is a dedicated and hardworking programmer! he's eager to always be learning and discovering new things while programming!",
+    text: "Dallas is a dedicated and hardworking programmer! He's eager to always be learning and discovering new things while programming!",
     
   },
-  {
-    name: "Kris Senger",
-    position: "Student @ SAIT",
-    text: "",
-    
-  },
-  {
-    name: "Taylor Crowe",
-    position: "Student @ SAIT",
-    text: "",
-    
-  },
+  
+  
   {
     name: "Mehdi Shokrani",
     position: "Instructor @ SAIT",
-    text: "I can confidently say that Dallas is one of the most promising emerging developers i've worked with.",
+    text: "I can confidently say that Dallas is one of the most promising emerging developers I've worked with.",
   },
   {
     name: "Colton Courage",
