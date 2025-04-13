@@ -17,7 +17,7 @@ const portfolioProjects = [
     results: [
       { title: "Replaced paper inspection logs with a mobile-first React app for truck drivers" },
       { title: "Enabled instant digital submissions and real-time supervisor access" },
-      { title: "Improved UX by 40%, site speed by 50%, and boosted mobile traffic by 35%" },
+      { title: "Improved UX by 40%" },
     ],
     link: "https://github.com/KrisSenger/CapstoneWTT",
     image: WhatTheTruckPage,
